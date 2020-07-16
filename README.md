@@ -1,4 +1,5 @@
-### Hi there 👋
+
+Looking for a pivot into Neuroscience when the stars align; conspiring thitherto!
 
 <!--
 **sangeethjayaprakash/sangeethjayaprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
